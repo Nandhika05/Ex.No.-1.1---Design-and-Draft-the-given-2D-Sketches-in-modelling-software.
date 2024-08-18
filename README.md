@@ -47,7 +47,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## Register Number : 212223040125
 
-[Edm Exp01.pdf](https://github.com/user-attachments/files/16648121/Edm.Exp01.pdf)
+
+![Screenshot 2024-08-18 162751](https://github.com/user-attachments/assets/a25a29b8-4d36-413d-942c-78745cc03bd5)
 
 
 ## RESULT
